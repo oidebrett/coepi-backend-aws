@@ -9,4 +9,5 @@ build/
 *.tfstate*
 .terraform
 terraform/backend.local
+terraform/terraform.tfvars
 
